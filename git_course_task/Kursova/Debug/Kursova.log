@@ -1,0 +1,144 @@
+﻿  Kursova.cpp
+D:\Nauka\OOP\Kursova\Kursova.cpp(271,19): warning C4018: >: несоответствие типов со знаком и без знака
+D:\Nauka\OOP\Kursova\Kursova.cpp(292,27): warning C4018: <: несоответствие типов со знаком и без знака
+D:\Nauka\OOP\Kursova\Kursova.cpp(299,24): warning C4018: <: несоответствие типов со знаком и без знака
+D:\Nauka\OOP\Kursova\Kursova.cpp(324,13): warning C4101: check: неиспользованная локальная переменная
+D:\Nauka\OOP\Kursova\Kursova.cpp(323,14): warning C4101: choose: неиспользованная локальная переменная
+D:\Nauka\OOP\Kursova\Kursova.cpp(814,27): warning C4018: <: несоответствие типов со знаком и без знака
+D:\Nauka\OOP\Kursova\Kursova.cpp(904,31): warning C4018: <: несоответствие типов со знаком и без знака
+D:\Nauka\OOP\Kursova\Kursova.cpp(939,27): warning C4018: <: несоответствие типов со знаком и без знака
+D:\Nauka\OOP\Kursova\Kursova.cpp(943,27): warning C4018: <: несоответствие типов со знаком и без знака
+D:\Nauka\OOP\Kursova\Kursova.cpp(947,27): warning C4018: <: несоответствие типов со знаком и без знака
+D:\Nauka\OOP\Kursova\Kursova.cpp(861,41): warning C4101: idVal: неиспользованная локальная переменная
+D:\Nauka\OOP\Kursova\Kursova.cpp(861,53): warning C4101: inum: неиспользованная локальная переменная
+D:\Nauka\OOP\Kursova\Kursova.cpp(1085,23): warning C4018: <: несоответствие типов со знаком и без знака
+D:\Nauka\OOP\Kursova\Kursova.cpp(1089,23): warning C4018: <: несоответствие типов со знаком и без знака
+D:\Nauka\OOP\Kursova\Kursova.cpp(1097,23): warning C4018: <: несоответствие типов со знаком и без знака
+D:\Nauka\OOP\Kursova\Kursova.cpp(1105,23): warning C4018: <: несоответствие типов со знаком и без знака
+D:\Nauka\OOP\Kursova\Kursova.cpp(1109,23): warning C4018: <: несоответствие типов со знаком и без знака
+D:\Nauka\OOP\Kursova\Kursova.cpp(1118,23): warning C4018: <: несоответствие типов со знаком и без знака
+D:\Nauka\OOP\Kursova\Kursova.cpp(1122,23): warning C4018: <: несоответствие типов со знаком и без знака
+D:\Nauka\OOP\Kursova\Kursova.cpp(1131,23): warning C4018: <: несоответствие типов со знаком и без знака
+D:\Nauka\OOP\Kursova\Kursova.cpp(1135,23): warning C4018: <: несоответствие типов со знаком и без знака
+D:\Nauka\OOP\Kursova\Kursova.cpp(1139,23): warning C4018: <: несоответствие типов со знаком и без знака
+D:\Nauka\OOP\Kursova\Kursova.cpp(1143,23): warning C4018: <: несоответствие типов со знаком и без знака
+D:\Nauka\OOP\Kursova\Kursova.cpp(1151,23): warning C4018: <: несоответствие типов со знаком и без знака
+D:\Nauka\OOP\Kursova\Kursova.cpp(1155,23): warning C4018: <: несоответствие типов со знаком и без знака
+D:\Nauka\OOP\Kursova\Kursova.cpp(1159,23): warning C4018: <: несоответствие типов со знаком и без знака
+D:\Nauka\OOP\Kursova\Kursova.cpp(1170,23): warning C4018: <: несоответствие типов со знаком и без знака
+D:\Nauka\OOP\Kursova\Kursova.cpp(1174,23): warning C4018: <: несоответствие типов со знаком и без знака
+D:\Nauka\OOP\Kursova\Kursova.cpp(1178,23): warning C4018: <: несоответствие типов со знаком и без знака
+D:\Nauka\OOP\Kursova\Kursova.cpp(1187,23): warning C4018: <: несоответствие типов со знаком и без знака
+D:\Nauka\OOP\Kursova\Kursova.cpp(1191,23): warning C4018: <: несоответствие типов со знаком и без знака
+D:\Nauka\OOP\Kursova\Kursova.cpp(1281,137): warning C4244: аргумент: преобразование "float" в "int", возможна потеря данных
+D:\Nauka\OOP\Kursova\Kursova.cpp(1462,120): warning C4244: аргумент: преобразование "float" в "unsigned int", возможна потеря данных
+D:\Nauka\OOP\Kursova\Kursova.cpp(1241,13): warning C4101: m: неиспользованная локальная переменная
+D:\Nauka\OOP\Kursova\Kursova.cpp(1563,35): warning C4018: <: несоответствие типов со знаком и без знака
+D:\Nauka\OOP\Kursova\Kursova.cpp(1643,28): warning C4018: <: несоответствие типов со знаком и без знака
+D:\Nauka\OOP\Kursova\Kursova.cpp(1653,28): warning C4018: <: несоответствие типов со знаком и без знака
+D:\Nauka\OOP\Kursova\Kursova.cpp(1663,28): warning C4018: <: несоответствие типов со знаком и без знака
+D:\Nauka\OOP\Kursova\Kursova.cpp(1676,20): warning C4018: >=: несоответствие типов со знаком и без знака
+D:\Nauka\OOP\Kursova\Kursova.cpp(1705,24): warning C4018: <: несоответствие типов со знаком и без знака
+D:\Nauka\OOP\Kursova\Kursova.cpp(1730,24): warning C4018: <: несоответствие типов со знаком и без знака
+D:\Nauka\OOP\Kursova\Kursova.cpp(1719,11): warning C4101: choose: неиспользованная локальная переменная
+D:\Nauka\OOP\Kursova\Kursova.cpp(1718,10): warning C4101: check: неиспользованная локальная переменная
+D:\Nauka\OOP\Kursova\Kursova.cpp(1768,24): warning C4018: <: несоответствие типов со знаком и без знака
+D:\Nauka\OOP\Kursova\Kursova.cpp(1772,36): warning C4018: <: несоответствие типов со знаком и без знака
+D:\Nauka\OOP\Kursova\Kursova.cpp(1758,11): warning C4101: choose: неиспользованная локальная переменная
+D:\Nauka\OOP\Kursova\Kursova.cpp(1788,20): warning C4018: >=: несоответствие типов со знаком и без знака
+D:\Nauka\OOP\Kursova\Kursova.cpp(1799,28): warning C4018: <: несоответствие типов со знаком и без знака
+D:\Nauka\OOP\Kursova\Kursova.cpp(1819,28): warning C4018: <: несоответствие типов со знаком и без знака
+D:\Nauka\OOP\Kursova\Kursova.cpp(1919,24): warning C4018: <: несоответствие типов со знаком и без знака
+D:\Nauka\OOP\Kursova\Kursova.cpp(1938,24): warning C4018: <: несоответствие типов со знаком и без знака
+D:\Nauka\OOP\Kursova\Kursova.cpp(1939,28): warning C4018: <: несоответствие типов со знаком и без знака
+D:\Nauka\OOP\Kursova\Kursova.cpp(1945,36): warning C4018: <: несоответствие типов со знаком и без знака
+D:\Nauka\OOP\Kursova\Kursova.cpp(1957,24): warning C4018: <: несоответствие типов со знаком и без знака
+D:\Nauka\OOP\Kursova\Kursova.cpp(1963,24): warning C4018: <: несоответствие типов со знаком и без знака
+D:\Nauka\OOP\Kursova\Kursova.cpp(1964,28): warning C4018: <: несоответствие типов со знаком и без знака
+D:\Nauka\OOP\Kursova\Kursova.cpp(1971,40): warning C4018: <: несоответствие типов со знаком и без знака
+D:\Nauka\OOP\Kursova\Kursova.cpp(1984,24): warning C4018: <: несоответствие типов со знаком и без знака
+D:\Nauka\OOP\Kursova\Kursova.cpp(2009,24): warning C4018: <: несоответствие типов со знаком и без знака
+D:\Nauka\OOP\Kursova\Kursova.cpp(2010,28): warning C4018: <: несоответствие типов со знаком и без знака
+D:\Nauka\OOP\Kursova\Kursova.cpp(2018,40): warning C4018: <: несоответствие типов со знаком и без знака
+D:\Nauka\OOP\Kursova\Kursova.cpp(2043,24): warning C4018: <: несоответствие типов со знаком и без знака
+D:\Nauka\OOP\Kursova\Kursova.cpp(2090,24): warning C4018: <: несоответствие типов со знаком и без знака
+D:\Nauka\OOP\Kursova\Kursova.cpp(2105,24): warning C4018: <: несоответствие типов со знаком и без знака
+D:\Nauka\OOP\Kursova\Kursova.cpp(2108,24): warning C4018: <: несоответствие типов со знаком и без знака
+D:\Nauka\OOP\Kursova\Kursova.cpp(2110,28): warning C4018: <: несоответствие типов со знаком и без знака
+D:\Nauka\OOP\Kursova\Kursova.cpp(2114,24): warning C4018: <: несоответствие типов со знаком и без знака
+D:\Nauka\OOP\Kursova\Kursova.cpp(2098,23): warning C4101: similiar: неиспользованная локальная переменная
+D:\Nauka\OOP\Kursova\Kursova.cpp(2122,24): warning C4018: <: несоответствие типов со знаком и без знака
+D:\Nauka\OOP\Kursova\Kursova.cpp(2123,28): warning C4018: <: несоответствие типов со знаком и без знака
+D:\Nauka\OOP\Kursova\Kursova.cpp(2129,36): warning C4018: <: несоответствие типов со знаком и без знака
+D:\Nauka\OOP\Kursova\Kursova.cpp(2137,24): warning C4018: <: несоответствие типов со знаком и без знака
+D:\Nauka\OOP\Kursova\Kursova.cpp(2146,24): warning C4018: <: несоответствие типов со знаком и без знака
+D:\Nauka\OOP\Kursova\Kursova.cpp(2147,28): warning C4018: <: несоответствие типов со знаком и без знака
+D:\Nauka\OOP\Kursova\Kursova.cpp(2173,24): warning C4018: <: несоответствие типов со знаком и без знака
+D:\Nauka\OOP\Kursova\Kursova.cpp(2676,245): warning C4101: num: неиспользованная локальная переменная
+D:\Nauka\OOP\Kursova\Kursova.cpp(685,23): warning C4018: <: несоответствие типов со знаком и без знака
+D:\Nauka\OOP\Kursova\Kursova.cpp(924): message : выполняется компиляция ссылки на экземпляр шаблон функции "std::vector<unsigned int,std::allocator<unsigned int>> addMembs<tourist>(std::vector<tourist,std::allocator<tourist>> &,unsigned int,std::vector<unsigned int,std::allocator<unsigned int>>,std::string)"
+D:\Nauka\OOP\Kursova\Kursova.cpp(2326,24): warning C4018: <: несоответствие типов со знаком и без знака
+D:\Nauka\OOP\Kursova\Kursova.cpp(2811): message : выполняется компиляция ссылки на экземпляр шаблон функции "void sortbySex<tourist>(std::vector<tourist,std::allocator<tourist>> &,unsigned int)"
+D:\Nauka\OOP\Kursova\Kursova.cpp(2321,10): warning C4101: check: неиспользованная локальная переменная
+D:\Nauka\OOP\Kursova\Kursova.cpp(2313,24): warning C4018: <: несоответствие типов со знаком и без знака
+D:\Nauka\OOP\Kursova\Kursova.cpp(2814): message : выполняется компиляция ссылки на экземпляр шаблон функции "void sortbyBy<tourist>(std::vector<tourist,std::allocator<tourist>> &,unsigned int)"
+D:\Nauka\OOP\Kursova\Kursova.cpp(2300,24): warning C4018: <: несоответствие типов со знаком и без знака
+D:\Nauka\OOP\Kursova\Kursova.cpp(2817): message : выполняется компиляция ссылки на экземпляр шаблон функции "void sortbyAge<tourist>(std::vector<tourist,std::allocator<tourist>> &,unsigned int)"
+D:\Nauka\OOP\Kursova\Kursova.cpp(2341,24): warning C4018: <: несоответствие типов со знаком и без знака
+D:\Nauka\OOP\Kursova\Kursova.cpp(2820): message : выполняется компиляция ссылки на экземпляр шаблон функции "void sortbySect<tourist>(std::vector<tourist,std::allocator<tourist>> &,unsigned int)"
+D:\Nauka\OOP\Kursova\Kursova.cpp(2222,28): warning C4018: <: несоответствие типов со знаком и без знака
+D:\Nauka\OOP\Kursova\Kursova.cpp(2823): message : выполняется компиляция ссылки на экземпляр шаблон функции "void sortbyRouteCat<tourist>(std::vector<tourist,std::allocator<tourist>> &,unsigned int)"
+D:\Nauka\OOP\Kursova\Kursova.cpp(2231,28): warning C4018: <: несоответствие типов со знаком и без знака
+D:\Nauka\OOP\Kursova\Kursova.cpp(2240,28): warning C4018: <: несоответствие типов со знаком и без знака
+D:\Nauka\OOP\Kursova\Kursova.cpp(2606,28): warning C4018: <: несоответствие типов со знаком и без знака
+D:\Nauka\OOP\Kursova\Kursova.cpp(2826): message : выполняется компиляция ссылки на экземпляр шаблон функции "void sortbyBeingInstructor<tourist>(std::vector<tourist,std::allocator<tourist>> &,unsigned int)"
+D:\Nauka\OOP\Kursova\Kursova.cpp(2618,28): warning C4018: <: несоответствие типов со знаком и без знака
+D:\Nauka\OOP\Kursova\Kursova.cpp(2633,28): warning C4018: <: несоответствие типов со знаком и без знака
+D:\Nauka\OOP\Kursova\Kursova.cpp(2185,28): warning C4018: <: несоответствие типов со знаком и без знака
+D:\Nauka\OOP\Kursova\Kursova.cpp(2829): message : выполняется компиляция ссылки на экземпляр шаблон функции "void sortbyAllRoutes<tourist>(std::vector<tourist,std::allocator<tourist>> &,unsigned int)"
+D:\Nauka\OOP\Kursova\Kursova.cpp(2195,28): warning C4018: <: несоответствие типов со знаком и без знака
+D:\Nauka\OOP\Kursova\Kursova.cpp(2203,28): warning C4018: <: несоответствие типов со знаком и без знака
+D:\Nauka\OOP\Kursova\Kursova.cpp(2412,24): warning C4018: <: несоответствие типов со знаком и без знака
+D:\Nauka\OOP\Kursova\Kursova.cpp(2885): message : выполняется компиляция ссылки на экземпляр шаблон функции "void sortbyCat<sportsman>(std::vector<sportsman,std::allocator<sportsman>> &,unsigned int)"
+D:\Nauka\OOP\Kursova\Kursova.cpp(2354,24): warning C4018: <: несоответствие типов со знаком и без знака
+D:\Nauka\OOP\Kursova\Kursova.cpp(2952): message : выполняется компиляция ссылки на экземпляр шаблон функции "void sortbySpec<trainer>(std::vector<trainer,std::allocator<trainer>> &,unsigned int)"
+D:\Nauka\OOP\Kursova\Kursova.cpp(2373,32): warning C4018: <: несоответствие типов со знаком и без знака
+D:\Nauka\OOP\Kursova\Kursova.cpp(2955): message : выполняется компиляция ссылки на экземпляр шаблон функции "void sortbySal<trainer>(std::vector<trainer,std::allocator<trainer>> &,unsigned int)"
+D:\Nauka\OOP\Kursova\Kursova.cpp(2380,32): warning C4018: <: несоответствие типов со знаком и без знака
+D:\Nauka\OOP\Kursova\Kursova.cpp(2387,32): warning C4018: <: несоответствие типов со знаком и без знака
+D:\Nauka\OOP\Kursova\Kursova.cpp(2254,24): warning C4018: <: несоответствие типов со знаком и без знака
+D:\Nauka\OOP\Kursova\Kursova.cpp(3264): message : выполняется компиляция ссылки на экземпляр шаблон функции "void sortbyTourQ<tourist>(std::vector<tourist,std::allocator<tourist>> &,unsigned int)"
+D:\Nauka\OOP\Kursova\Kursova.cpp(2270,24): warning C4018: <: несоответствие типов со знаком и без знака
+D:\Nauka\OOP\Kursova\Kursova.cpp(3290): message : выполняется компиляция ссылки на экземпляр шаблон функции "void sortbyTourQandSect<tourist>(std::vector<tourist,std::allocator<tourist>> &,unsigned int)"
+D:\Nauka\OOP\Kursova\Kursova.cpp(2261,26): warning C4101: check: неиспользованная локальная переменная
+D:\Nauka\OOP\Kursova\Kursova.cpp(2287,24): warning C4018: <: несоответствие типов со знаком и без знака
+D:\Nauka\OOP\Kursova\Kursova.cpp(3315): message : выполняется компиляция ссылки на экземпляр шаблон функции "void sortbyTourQandGroup<tourist>(std::vector<tourist,std::allocator<tourist>> &,unsigned int)"
+D:\Nauka\OOP\Kursova\Kursova.cpp(2277,26): warning C4101: check: неиспользованная локальная переменная
+D:\Nauka\OOP\Kursova\Kursova.cpp(2544,24): warning C4018: <: несоответствие типов со знаком и без знака
+D:\Nauka\OOP\Kursova\Kursova.cpp(3387): message : выполняется компиляция ссылки на экземпляр шаблон функции "void sortbyRoutePlace<tourist>(std::vector<tourist,std::allocator<tourist>> &,unsigned int)"
+D:\Nauka\OOP\Kursova\Kursova.cpp(2545,28): warning C4018: <: несоответствие типов со знаком и без знака
+D:\Nauka\OOP\Kursova\Kursova.cpp(2551,36): warning C4018: <: несоответствие типов со знаком и без знака
+D:\Nauka\OOP\Kursova\Kursova.cpp(2563,24): warning C4018: <: несоответствие типов со знаком и без знака
+D:\Nauka\OOP\Kursova\Kursova.cpp(2570,24): warning C4018: <: несоответствие типов со знаком и без знака
+D:\Nauka\OOP\Kursova\Kursova.cpp(2571,28): warning C4018: <: несоответствие типов со знаком и без знака
+D:\Nauka\OOP\Kursova\Kursova.cpp(2574,40): warning C4018: <: несоответствие типов со знаком и без знака
+D:\Nauka\OOP\Kursova\Kursova.cpp(2579,40): warning C4018: <: несоответствие типов со знаком и без знака
+D:\Nauka\OOP\Kursova\Kursova.cpp(2584,40): warning C4018: <: несоответствие типов со знаком и без знака
+D:\Nauka\OOP\Kursova\Kursova.cpp(2519,24): warning C4018: <: несоответствие типов со знаком и без знака
+D:\Nauka\OOP\Kursova\Kursova.cpp(3411): message : выполняется компиляция ссылки на экземпляр шаблон функции "void sortbyRoute<tourist>(std::vector<tourist,std::allocator<tourist>> &,unsigned int)"
+D:\Nauka\OOP\Kursova\Kursova.cpp(2522,36): warning C4018: <: несоответствие типов со знаком и без знака
+D:\Nauka\OOP\Kursova\Kursova.cpp(2527,36): warning C4018: <: несоответствие типов со знаком и без знака
+D:\Nauka\OOP\Kursova\Kursova.cpp(2532,36): warning C4018: <: несоответствие типов со знаком и без знака
+D:\Nauka\OOP\Kursova\Kursova.cpp(2452,24): warning C4018: <: несоответствие типов со знаком и без знака
+D:\Nauka\OOP\Kursova\Kursova.cpp(3435): message : выполняется компиляция ссылки на экземпляр шаблон функции "void sortbyTourTime<tourist>(std::vector<tourist,std::allocator<tourist>> &,unsigned int)"
+D:\Nauka\OOP\Kursova\Kursova.cpp(2493,36): warning C4018: <: несоответствие типов со знаком и без знака
+D:\Nauka\OOP\Kursova\Kursova.cpp(2498,36): warning C4018: <: несоответствие типов со знаком и без знака
+D:\Nauka\OOP\Kursova\Kursova.cpp(2503,36): warning C4018: <: несоответствие типов со знаком и без знака
+D:\Nauka\OOP\Kursova\Kursova.cpp(2426,28): warning C4018: <: несоответствие типов со знаком и без знака
+D:\Nauka\OOP\Kursova\Kursova.cpp(3459): message : выполняется компиляция ссылки на экземпляр шаблон функции "void sortbyChoosenTour<tourist>(std::vector<tourist,std::allocator<tourist>> &,unsigned int)"
+D:\Nauka\OOP\Kursova\Kursova.cpp(2431,28): warning C4018: <: несоответствие типов со знаком и без знака
+D:\Nauka\OOP\Kursova\Kursova.cpp(2436,28): warning C4018: <: несоответствие типов со знаком и без знака
+D:\Nauka\OOP\Kursova\Kursova.cpp(716): warning C4715: addMembs<trainer>: значение возвращается не при всех путях выполнения
+D:\Nauka\OOP\Kursova\Kursova.cpp(716): warning C4715: addMembs<sportsman>: значение возвращается не при всех путях выполнения
+D:\Nauka\OOP\Kursova\Kursova.cpp(716): warning C4715: addMembs<tourist>: значение возвращается не при всех путях выполнения
+  Kursova.vcxproj -> D:\Nauka\OOP\Kursova\Debug\Kursova.exe
