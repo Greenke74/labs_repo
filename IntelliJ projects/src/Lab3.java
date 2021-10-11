@@ -1,6 +1,7 @@
 import java.util.Scanner;
 
-public  class lab3 {
+
+public  class Lab3 {
     public static Scanner s = new Scanner(System.in);
 
     public static void exercise1() {

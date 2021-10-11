@@ -1,6 +1,6 @@
 import java.util.Locale;
 
-public class teacher { // викладач
+public class Teacher { // викладач
     private int _id; // унікальний кодовий номер
     private String _surname, _name, _fathersName; // ПІБ
     private int _age; // вік
@@ -58,8 +58,8 @@ public class teacher { // викладач
         return _experience;
     }
         //constructors
-    teacher() {} // порожній конструктор
-    teacher(int id, String surname, String name, String fathersName, int age, int experience){ // конструктор з параметрами
+    Teacher() {} // порожній конструктор
+    Teacher(int id, String surname, String name, String fathersName, int age, int experience){ // конструктор з параметрами
         _id=id;
         _surname=surname;
         _name=name;
